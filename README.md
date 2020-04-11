@@ -2,7 +2,7 @@
 CSS grid layout or CSS grid is a technique in Cascading Style Sheets that allows web developers to create complex responsive web design layouts more easily and consistently across browsers.
 
 ## Table of Contents
-* What is CSS Grid?
+* [What is CSS Grid?](./grid-basic-and-columns/readme.md)
 * Grid Basics & Columns
 * Grid Rows
 * Sapnning Columns & Rows
@@ -57,3 +57,7 @@ With the grid, you can have two dimensional layout, good for contents that you c
 <p align="center">
     <img width="50%" height="50%" src="./imgs/grid-and-flex.png">
 </p>
+
+You can use a combination of both **flexbox** and **grid** it is NOT one or the other. 
+* Use CSS Grid for outter elements and grid-like layouts.
+* Use Flex for simple alignment (Inner elements, menu items, etc)
