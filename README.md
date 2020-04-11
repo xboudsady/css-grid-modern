@@ -38,7 +38,7 @@ We'll be introduceing a new unit of measure in CSS called `fr` or fractions.
     <img width="50%" height="50%" src="./imgs/flexbox-dimension.png">
 </p>
 
-Flexbox is not capable of two dimensional layout. Use it for a single row or columns.
+Flexbox is not capable of two dimensional layout. Use it for a single row or columns. A good example would be a navbar, with a list of links set as rows horizontally.
 
 
 <h3 align="center">CSS Grid</h3>
@@ -46,4 +46,14 @@ Flexbox is not capable of two dimensional layout. Use it for a single row or col
     <img width="50%" height="50%" src="./imgs/grid-dimension.png">
 </p>
 
-With the grid, you can have two dimensional 
+<h3 align="center">Grid Spanning</h3>
+<p align="center">
+    <img width="50%" height="50%" src="./imgs/grid-spanning.png">
+</p>
+
+With the grid, you can have two dimensional layout, good for contents that you can span multiple columns and rows.
+
+<h3 align="center">Combining both Flexbox and Grid</h3>
+<p align="center">
+    <img width="50%" height="50%" src="./imgs/grid-and-flex.png">
+</p>
